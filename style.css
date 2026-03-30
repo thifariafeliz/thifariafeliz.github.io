@@ -6,7 +6,6 @@
 }
 
 body {
-<<<<<<< HEAD
   background: linear-graadient(135deg, #a6d8ff 0%, #ffffff 50%, #b2eec0 100%);
   background-attachment: fixed;
   color: #1a3c5a;
@@ -25,7 +24,6 @@ body {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border-radius: 12px;
-=======
     background-color: #a6d8ff; 
     color: #1a3c5a;
     line-height: 1.6;
@@ -64,7 +62,6 @@ body {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border-radius: 12px;
->>>>>>> a1f06e1 (Mais atualização)
 }
 
 header {
